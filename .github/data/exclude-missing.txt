@@ -1,0 +1,108 @@
+          - release: "2.2.8"
+            arch: aarch64
+          - release: "2.2.8"
+            arch: riscv64
+          - release: "2.2.8"
+            arch: powerpc64
+          - release: "2.2.8"
+            arch: sparc64
+          - release: "2.2.8"
+            arch: ppc64le
+          - release: "2.2.8"
+            arch: s390x
+          - release: "2.2.8"
+            arch: i386
+          - release: "2.2.8"
+            arch: loongarch64
+          - release: "2.2.8"
+            arch: armv7
+          - release: "3.2.4"
+            arch: aarch64
+          - release: "3.2.4"
+            arch: riscv64
+          - release: "3.2.4"
+            arch: powerpc64
+          - release: "3.2.4"
+            arch: sparc64
+          - release: "3.2.4"
+            arch: ppc64le
+          - release: "3.2.4"
+            arch: s390x
+          - release: "3.2.4"
+            arch: i386
+          - release: "3.2.4"
+            arch: loongarch64
+          - release: "3.2.4"
+            arch: armv7
+          - release: "4.0.4"
+            arch: aarch64
+          - release: "4.0.4"
+            arch: riscv64
+          - release: "4.0.4"
+            arch: powerpc64
+          - release: "4.0.4"
+            arch: sparc64
+          - release: "4.0.4"
+            arch: ppc64le
+          - release: "4.0.4"
+            arch: s390x
+          - release: "4.0.4"
+            arch: i386
+          - release: "4.0.4"
+            arch: loongarch64
+          - release: "4.0.4"
+            arch: armv7
+          - release: "4.0.6"
+            arch: aarch64
+          - release: "4.0.6"
+            arch: riscv64
+          - release: "4.0.6"
+            arch: powerpc64
+          - release: "4.0.6"
+            arch: sparc64
+          - release: "4.0.6"
+            arch: ppc64le
+          - release: "4.0.6"
+            arch: s390x
+          - release: "4.0.6"
+            arch: i386
+          - release: "4.0.6"
+            arch: loongarch64
+          - release: "4.0.6"
+            arch: armv7
+          - release: "4.0.7"
+            arch: aarch64
+          - release: "4.0.7"
+            arch: riscv64
+          - release: "4.0.7"
+            arch: powerpc64
+          - release: "4.0.7"
+            arch: sparc64
+          - release: "4.0.7"
+            arch: ppc64le
+          - release: "4.0.7"
+            arch: s390x
+          - release: "4.0.7"
+            arch: i386
+          - release: "4.0.7"
+            arch: loongarch64
+          - release: "4.0.7"
+            arch: armv7
+          - release: ""
+            arch: aarch64
+          - release: ""
+            arch: riscv64
+          - release: ""
+            arch: powerpc64
+          - release: ""
+            arch: sparc64
+          - release: ""
+            arch: ppc64le
+          - release: ""
+            arch: s390x
+          - release: ""
+            arch: i386
+          - release: ""
+            arch: loongarch64
+          - release: ""
+            arch: armv7
